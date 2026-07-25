@@ -1,5 +1,8 @@
  IMDb Movie Insights: Advanced SQL Data Analysis 🍿
 
+My Tableau Data Visualization: Coffee Sales Dashboard: 
+https://public.tableau.com/views/IMDb_Project_Tableau/IMDbSummaryDashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 This project dives deep into movie trends, financial performance (contrasting historic nominal values with inflation-adjusted data), audience sentiment, and industry talent performance using advanced SQL techniques.
 
 📊 Project Structure & Insights
